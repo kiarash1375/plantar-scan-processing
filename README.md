@@ -30,6 +30,7 @@ The software processes plantar scans and extracts useful information for clinica
 ## Key Features
 
 - Automatic scan alignment
+<img src="images/raw_scanned_image.jpg" alt="Raw Scanned Image" width="300" height="200">
 ![Raw Scanned Image](images/raw_scanned_image.jpg)![Rotated Left Foot](images/rotated_left_foot.jpg)![Rotated Right Foot](images/rotated_right_foot.jpg)
 - Foot segmentation
 - Noise reduction
