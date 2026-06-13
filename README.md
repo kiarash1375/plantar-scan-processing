@@ -42,7 +42,9 @@ Rotated and Denoised Right foot:<br/>
 - Foot segmentation<br/>
 <img src="images/foot_segmentation.jpg" alt="Foot Segmentation" width="600" height="400">
 
-- Left/right foot identification
+- Left/right foot identification<br/>
+<img src="images/foot_identification.jpg" alt="Foot Identification" width="690" height="440">
+
 - Measurement extraction
 
 ---
