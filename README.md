@@ -29,7 +29,7 @@ The software processes plantar scans and extracts useful information for clinica
 
 ## Key Features
 
-- Automatic scan alignment
+- Automatic scan alignment and Noise reduction
 <br/>Raw Scanned Image:
 <img src="images/raw_scanned_image.jpg" alt="Raw Scanned Image" width="400" height="600">
 
@@ -40,8 +40,7 @@ Rotated and Denoised Right foot:<br/>
 <img src="images/rotated_right_foot.jpg" alt="Rotated and Denoised Right Foot" width="200" height="500">
 
 - Foot segmentation
-- Noise reduction
-- Image enhancement
+
 - Left/right foot identification
 - Measurement extraction
 
